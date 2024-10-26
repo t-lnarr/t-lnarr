@@ -1,7 +1,7 @@
 💻 Passionate software developer with a strong foundation in Python and Django. Constantly expanding my skills and working on projects to deepen my expertise. Committed to becoming a professional in the tech field and always excited to learn more. 🚀
 
-🌍 Based in Ashgabat
-🛠️ Skills: Python, HTML, CSS
+🌍 Based in Ashgabat <br>
+🛠️ Skills: Python, HTML, CSS, Django <br>
 📫 Contact: telnarr.dev@gmail.com
 
 <!---
